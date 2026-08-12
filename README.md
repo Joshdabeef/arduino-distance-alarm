@@ -2,6 +2,10 @@
 
 Got a quick project running on the Uno R4 WiFi using an HC-SR04 ultrasonic sensor, a 16x2 I2C LCD, and a piezo buzzer. It measures distance in real time, displays it on the screen, and sets off a beep if anything gets closer than 5cm.
 
+
+https://github.com/user-attachments/assets/dc99d69e-d1ae-4125-807f-8320212ef60e
+
+
 ### Hardware
 * Arduino Uno R4 WiFi
 * HC-SR04 Ultrasonic sensor
